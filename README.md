@@ -62,7 +62,7 @@
 
 必须配置 `config.json` 以确保数据可以正确的采集和进入数据库
 
-```json
+```text
 {
   "sourceCategoryLink":"http://www.acgdoge.net/archives/category/%e5%8a%a8%e7%94%bb%e6%bc%ab%e7%94%bb", //采集的目录地址
   "pageNumber":100, //采集的页数
