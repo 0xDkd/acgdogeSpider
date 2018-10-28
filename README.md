@@ -64,8 +64,8 @@
 
 ```json
 {
-  "sourceCategoryLink":"http://www.acgdoge.net/archives/category/%e5%8a%a8%e7%94%bb%e6%bc%ab%e7%94%bb", #采集的目录地址
-  "pageNumber":100, .. 采集的页数
+  "sourceCategoryLink":"http://www.acgdoge.net/archives/category/%e5%8a%a8%e7%94%bb%e6%bc%ab%e7%94%bb", //采集的目录地址
+  "pageNumber":100, //采集的页数
   "allTime":"2018-10-26 01:16:39", // wordpress 中发布时间
   "categoryId":711, // 采集资源进入数据库后所属于的文章分类目录 id
   "postUserId":121393, // 发布用户的 id
